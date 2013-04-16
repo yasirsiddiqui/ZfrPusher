@@ -25,6 +25,7 @@
     },
     "require-dev": {
         "zendframework/zend-modulemanager": "2.*",
+        "zendframework/zend-mvc": "2.*",
         "zendframework/zend-config": "2.*"
     },
     "autoload": {
