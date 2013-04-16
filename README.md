@@ -6,6 +6,8 @@ Version 1.0.0, created by Michaël Gallego
 Introduction
 ------------
 
+Master status [![Build Status](https://travis-ci.org/zf-fr/ZfrPusher.png?branch=master)](https://travis-ci.org/zf-fr/ZfrPusher)
+
 ZfrPusher is a Zend Framework 2 that integrates with Pusher, a service on the cloud that brings real-time to your applications.
 
 Installation

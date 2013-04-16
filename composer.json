@@ -10,7 +10,7 @@
         "real-time",
         "notifications"
     ],
-    "homepage": "https://github.com/zfr/ZfrPusher",
+    "homepage": "https://github.com/zf-fr/ZfrPusher",
     "authors": [
         {
             "name": "Michaël Gallego",
@@ -20,7 +20,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-servicemanager": "2.*"
+        "zendframework/zend-servicemanager": "2.*",
+        "zendframework/zend-http": "2.*"
     },
     "require-dev": {
         "zendframework/zend-modulemanager": "2.*",
