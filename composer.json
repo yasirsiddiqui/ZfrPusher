@@ -1,0 +1,37 @@
+{
+    "name": "zfr/zfr-pusher",
+    "description": "ZfrPusher is a Zend Framework 2 that integrates with Pusher, a service on the cloud that brings real-time to your applications",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "zf2",
+        "pusher",
+        "websocket",
+        "real-time",
+        "notifications"
+    ],
+    "homepage": "https://github.com/zfr/ZfrPusher",
+    "authors": [
+        {
+            "name": "Michaël Gallego",
+            "email": "mic.gallego@gmail.com",
+            "homepage": "http://www.michaelgallego.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-servicemanager": "2.*"
+    },
+    "require-dev": {
+        "zendframework/zend-modulemanager": "2.*",
+        "zendframework/zend-config": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "ZfrPusher": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
