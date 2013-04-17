@@ -1,6 +1,6 @@
 {
     "name": "zfr/zfr-pusher",
-    "description": "ZfrPusher is a Zend Framework 2 that integrates with Pusher, a service on the cloud that brings real-time to your applications",
+    "description": "ZfrPusher is a Zend Framework 2 module that integrates with Pusher, a service on the cloud that brings real-time to your applications",
     "type": "library",
     "license": "MIT",
     "keywords": [
