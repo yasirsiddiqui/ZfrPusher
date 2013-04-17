@@ -8,7 +8,7 @@ Version 1.0.0, created by Michaël Gallego
 Introduction
 ------------
 
-ZfrPusher is a Zend Framework 2 that integrates with Pusher, a service on the cloud that brings real-time to your applications.
+ZfrPusher is a Zend Framework 2 module that integrates with Pusher, a service on the cloud that brings real-time to your applications.
 
 Installation
 ------------
